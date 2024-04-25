@@ -1,0 +1,46 @@
+a{
+    text-decoration: none!important;
+    color: white !important;
+}
+
+li{
+    list-style: none;
+    color: white;
+}
+
+i{
+    color: grey;
+    padding: 0;
+    margin: 0;
+}
+
+.demo-row{
+    background: rgb(0,0,0);
+    background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(5,5,10,1) 48%, rgba(184,13,36,1) 90%);
+}
+
+header{
+    
+    background: rgb(0,0,0);
+    background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(5,5,10,1) 48%, rgba(184,13,36,1) 90%);
+    position: relative;
+    max-width: 100%;
+    overflow: hidden;
+}
+.search-container {
+    text-align: center; 
+    color: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(5,5,10,1) 48%, rgba(184,13,36,1) 90%);
+}
+
+
+#Filimler{
+    background: rgb(0,0,0);
+    background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(5,5,10,1) 48%, rgba(184,13,36,1) 90%);
+    padding: 120px 0;
+}
+
+
+  
+  
+  
+ 
